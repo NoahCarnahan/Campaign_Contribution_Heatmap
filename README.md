@@ -1,7 +1,7 @@
 Campaign Contribution Heatmap
 =============================
 
-This tool creates heatmaps (very very slowly) that show where candidates in the 2012 U.S federal elections recieved contributions from. It only maps contributions from individuals; PAC contributions are not included.
+This tool creates heatmaps (very very slowly) that show from where candidates in the 2012 U.S federal elections recieved contributions. It only maps contributions from individuals. PAC contributions are not included. Look in the examples directory for sample output.
 
 ## Setup
 
