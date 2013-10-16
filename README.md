@@ -1,6 +1,8 @@
 Campaign Contribution Heatmap
 =============================
 
+This tool creates heatmaps (very very slowly) that show where candidates in the 2012 U.S federal elections recieved contributions from. It only maps contributions from individuals; PAC contributions are not included.
+
 ## Setup
 
 To run this project, a sql server needs to be running on localhost:8889 (this configuration can of course be changed in the source). I used [MAMP](www.mamp.info/‎) for this purpose. Import the .sql files from the database directory into a database called HeatmapData. Unfortunately, some of the .sql files that should be imported into this database are too large for github. I'm currently working out an alternative solution...
